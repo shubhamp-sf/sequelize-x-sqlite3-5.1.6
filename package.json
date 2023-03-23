@@ -1,0 +1,8 @@
+{
+  "description": "Reproduction for https://github.com/TryGhost/node-sqlite3/commit/edb1934dd222ae55632e120d8f64552d5191c781#commitcomment-105523308",
+  "type": "module",
+  "dependencies": {
+    "sequelize": "^6.29.3",
+    "sqlite3": "^5.1.6"
+  }
+}
